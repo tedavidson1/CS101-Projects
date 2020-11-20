@@ -1,4 +1,5 @@
 This was my Project 2 for CS 101. 
+
 Grade: 100%
 
 This project was to:
