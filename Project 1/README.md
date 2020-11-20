@@ -1,4 +1,7 @@
 This was my Project 1 for CS 101.
+
+Grade: 100%
+
 This project was to:
 
 Read and parse a file for words and store the information
