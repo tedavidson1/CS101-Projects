@@ -1,4 +1,7 @@
-This was my Project 2 for CS 101. This project was to:
+This was my Project 2 for CS 101. 
+Grade: 100%
+
+This project was to:
 
 Given two files (both being strings or both being ints):
 Acquire the counts of the files
